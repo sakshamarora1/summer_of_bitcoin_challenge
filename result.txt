@@ -1,0 +1,3 @@
+Total Number of transactions in the block: 3178
+Total Weight of Block: 3999904
+Total Fee of all transactions in the block: 5704530
